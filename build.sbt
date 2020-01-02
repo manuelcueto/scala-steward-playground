@@ -17,7 +17,7 @@ resolvers ++= Seq(
 
 libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-stream" % akkaVersion,
-  "com.ovoenergy" %% "algae" % "0.2.1",
+  "com.ovoenergy" %% "algae" % "0.2.5",
   "io.kamon" %% "kamon-jmx-collector" % "0.1.6",
   "com.typesafe.akka" %% "akka-http" % "10.1.0",
   "com.typesafe.akka" %% "akka-stream-testkit" % akkaVersion % "test",
