@@ -6,7 +6,7 @@ organization := "com.manuelcueto"
 
 scalaVersion := "2.12.4"
 
-val akkaVersion = "2.5.11"
+val akkaVersion = "2.5.27"
 
 resolvers ++= Seq(
   Resolver.bintrayRepo("ovotech", "maven"),
